@@ -1,0 +1,22 @@
+{
+
+"image_file" : "covid_image.png",
+"webpage_title" : "Covid Dashboard",
+
+"api_key" : "290bcd5f603443a58a26d32d5dab6384",
+"news_language" : "en",
+"covid_terms" : "Covid COVID-19 coronavirus",
+
+"csv_filename" : "nation_2021-10-28.csv",
+
+"news_default_wait" : 10,
+"covid_default_wait" : 10,
+
+"national_location" : "England",
+"national_location_type" : "nation",
+
+"local_location" : "Exeter",
+"local_location_type" : "ltla",
+
+"logging_level" : "INFO" 
+}

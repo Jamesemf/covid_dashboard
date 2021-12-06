@@ -1,0 +1,529 @@
+INFO:__main__:
+ NEW EXECUTION 
+
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:05:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:05:22] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 16.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:05:44] "[32mGET /index?update=21%3A06&two=Update_1&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:05:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:05:44] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:06:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:06:05] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:06:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:06:08] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:__main__:Removed an article
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:covid_data_handler:National covid data updated
+INFO:covid_data_handler:Local covid data updated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:06:10] "[32mGET /index?notif=8+new+Omicron+cases+detected+in+Alberta%2C+schools+may+have+been+exposed+-+Globalnews.ca HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:__main__:Removed Update_1 from list_scheduled_updates
+INFO:__main__:**Update_1
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:06:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:06:10] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:
+ NEW EXECUTION 
+
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 86351.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:07:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:07:02] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:07:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:07:03] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:
+ NEW EXECUTION 
+
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 86255.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:__main__:Removed an article
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:08:31] "[32mGET /index?notif=Australia+news+LIVE%3A+William+Tyrrell+search+enters+second+week%3B+Victoria+records+1029+new+local+COVID-19+cases%2C+three+deaths+-+The+Sydney+Morning+Herald HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:08:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:08:31] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:__main__:Size of list_scheduled_updates = 0
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:08:32] "[32mGET /index?update_item=Update_1 HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:08:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:08:32] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:
+ NEW EXECUTION 
+
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 86237.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:__main__:Removed an article
+INFO:__main__:Size of list_scheduled_updates = 0
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:08:55] "[32mGET /index?notif=Australia+news+LIVE%3A+William+Tyrrell+search+enters+second+week%3B+Victoria+records+1029+new+local+COVID-19+cases%2C+three+deaths+-+The+Sydney+Morning+Herald HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:08:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:08:56] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:
+ NEW EXECUTION 
+
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 86162.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:__main__:Size of list_scheduled_updates = 0
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:10:02] "[32mGET /index HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:10:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:10:02] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 50.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:11', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:10:10] "[32mGET /index?update=21%3A11&two=Update_1&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:10:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:10:10] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:__main__:Removed an article
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:covid_data_handler:National covid data updated
+INFO:covid_data_handler:Local covid data updated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:11:06] "[32mGET /index?notif=Waterloo+Region+has+special+plans+in+store+for+Every+Dose+Counts+weekend+-+cjoy.com HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:__main__:Removed Update_1 from list_scheduled_updates
+INFO:__main__:**Update_1
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:11:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:11:06] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:
+ NEW EXECUTION 
+
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 86072.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 86372.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:11', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:__main__:Removed an article
+INFO:__main__:Size of list_scheduled_updates = 0
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:11:57] "[32mGET /index?notif=Australia+news+LIVE%3A+William+Tyrrell+search+enters+second+week%3B+Victoria+records+1029+new+local+COVID-19+cases%2C+three+deaths+-+The+Sydney+Morning+Herald HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:11:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:11:58] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:
+ NEW EXECUTION 
+
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 86018.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 86318.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:11', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:__main__:Removed an article
+INFO:__main__:Size of list_scheduled_updates = 0
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:12:34] "[32mGET /index?notif=Australia+news+LIVE%3A+William+Tyrrell+search+enters+second+week%3B+Victoria+records+1029+new+local+COVID-19+cases%2C+three+deaths+-+The+Sydney+Morning+Herald HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:12:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:12:34] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_2 a news update in 18.0seconds
+INFO:__main__:New scheduled event :
+ Update_2['Time | 21:13', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:12:42] "[32mGET /index?update=21%3A13&two=Update_2&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:12:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:12:42] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:Calculated delay time
+INFO:covid_news_handling:Scheduling Update_3 a covid update in 67.0seconds
+
+INFO:__main__:New scheduled event :
+ Update_3['Time | 21:14', 'Covid_update | False', 'News_update | True', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 2
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:12:53] "[32mGET /index?update=21%3A14&two=Update_3&news=news HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:12:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:12:53] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_4 a news update in 112.0seconds
+INFO:__main__:Calculated delay time
+INFO:covid_news_handling:Scheduling Update_4 a covid update in 112.0seconds
+
+INFO:__main__:New scheduled event :
+ Update_4['Time | 21:15', 'Covid_update | True', 'News_update | True', 'Repeat | True']
+INFO:__main__:Size of list_scheduled_updates = 3
+INFO:covid_data_handler:National covid data updated
+INFO:covid_data_handler:Local covid data updated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:13:09] "[32mGET /index?update=21%3A15&two=Update_4&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:__main__:Removed Update_2 from list_scheduled_updates
+INFO:__main__:**Update_2
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:13:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:13:09] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:Size of list_scheduled_updates = 2
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:14:09] "[32mGET /index HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:__main__:Removed Update_3 from list_scheduled_updates
+INFO:__main__:**Update_3
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:14:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:14:09] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:__main__:Removed an article
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:covid_data_handler:Local covid data updated
+INFO:covid_data_handler:National covid data updated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:15:06] "[32mGET /index?notif=8+new+Omicron+cases+detected+in+Alberta%2C+schools+may+have+been+exposed+-+Globalnews.ca HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_4 a news update in 86394.0seconds
+INFO:__main__:Rescheduling covid : Update_4
+INFO:__main__:Calculated delay time
+INFO:covid_news_handling:Scheduling Update_4 a covid update in 86394.0seconds
+
+INFO:__main__:Rescheduling news : Update_4
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:15:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:15:06] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:
+ NEW EXECUTION 
+
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 85844.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 86144.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:11', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_2 a news update in 86264.0seconds
+INFO:__main__:New scheduled event :
+ Update_2['Time | 21:13', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Calculated delay time
+INFO:covid_news_handling:Scheduling Update_3 a covid update in 86324.0seconds
+
+INFO:__main__:New scheduled event :
+ Update_3['Time | 21:14', 'Covid_update | False', 'News_update | True', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 2
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_4 a news update in 86384.0seconds
+INFO:__main__:Calculated delay time
+INFO:covid_news_handling:Scheduling Update_4 a covid update in 86384.0seconds
+
+INFO:__main__:New scheduled event :
+ Update_4['Time | 21:15', 'Covid_update | True', 'News_update | True', 'Repeat | True']
+INFO:__main__:Size of list_scheduled_updates = 3
+INFO:__main__:Update_2 removed from covid scheduler
+INFO:__main__:Update_2 removed from list_scheduled_updates
+INFO:__main__:Update_3 removed from news scheduler
+INFO:__main__:Update_3 removed from list_scheduled_updates
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:__main__:Removed an article
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:15:24] "[32mGET /index?notif=Australia+news+LIVE%3A+William+Tyrrell+search+enters+second+week%3B+Victoria+records+1029+new+local+COVID-19+cases%2C+three+deaths+-+The+Sydney+Morning+Herald HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:15:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:15:24] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:app:
+ NEW EXECUTION 
+
+INFO:__main__:
+ NEW EXECUTION 
+
+INFO:covid_data_handler:Local covid data updated
+INFO:covid_data_handler:National covid data updated
+INFO:app:
+ NEW EXECUTION 
+
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:app:Removed an article
+INFO:app:Calculated delay time
+INFO:covid_data_handler:Scheduling a_label a news update in 51664.0seconds
+INFO:app:New scheduled event :
+ a_label['Time | 12:00', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:app:Size of list_scheduled_updates = 1
+INFO:app:Calculated delay time
+INFO:covid_news_handling:Scheduling b_label a covid update in 51664.0seconds
+
+INFO:app:New scheduled event :
+ b_label['Time | 12:00', 'Covid_update | False', 'News_update | True', 'Repeat | False']
+INFO:app:Size of list_scheduled_updates = 2
+INFO:app:Calculated delay time
+INFO:covid_data_handler:Scheduling c_label a news update in 51664.0seconds
+INFO:app:Calculated delay time
+INFO:covid_news_handling:Scheduling c_label a covid update in 51664.0seconds
+
+INFO:app:New scheduled event :
+ c_label['Time | 12:00', 'Covid_update | True', 'News_update | True', 'Repeat | False']
+INFO:app:Size of list_scheduled_updates = 3
+INFO:app:Calculated delay time
+INFO:covid_data_handler:Scheduling d_label a news update in 51664.0seconds
+INFO:app:Calculated delay time
+INFO:covid_news_handling:Scheduling d_label a covid update in 51664.0seconds
+
+INFO:app:New scheduled event :
+ d_label['Time | 12:00', 'Covid_update | True', 'News_update | True', 'Repeat | True']
+INFO:app:Size of list_scheduled_updates = 4
+INFO:app:a_label removed from covid scheduler
+INFO:app:b_label removed from news scheduler
+INFO:app:c_label removed from covid scheduler
+INFO:app:c_label removed from news scheduler
+INFO:app:d_label removed from covid scheduler
+INFO:app:d_label removed from news scheduler
+INFO:app:Calculated delay time
+INFO:app:Calculated delay time
+INFO:covid_news_handling:Scheduling remove_label a covid update in 51664.0seconds
+
+INFO:app:New scheduled event :
+ remove_label['Time | 12:00', 'Covid_update | False', 'News_update | True', 'Repeat | False']
+INFO:app:Size of list_scheduled_updates = 1
+INFO:app:remove_label removed from news scheduler
+INFO:app:remove_label removed from list_scheduled_updates
+INFO:app:Calculated delay time
+INFO:covid_data_handler:Scheduling a_label a news update in 51664.0seconds
+INFO:app:New scheduled event :
+ a_label['Time | 12:00', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:app:Size of list_scheduled_updates = 1
+INFO:app:Size of list_scheduled_updates = 1
+INFO:covid_data_handler:Readlines from csv file
+INFO:covid_data_handler:Readlines from csv file
+INFO:covid_data_handler:process_covid_csv_data returned data
+INFO:covid_data_handler:Local covid data updated
+INFO:covid_data_handler:Scheduling update test a news update in 10seconds
+INFO:covid_data_handler:Local covid data updated
+INFO:covid_data_handler:National covid data updated
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:National covid data updated
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:Scheduling test a covid update in 10seconds
+
+INFO:covid_news_handling:Updated and returned news articles
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 84421.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_1 a news update in 84721.0seconds
+INFO:__main__:New scheduled event :
+ Update_1['Time | 21:11', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Update_1 removed from covid scheduler
+INFO:__main__:Update_1 removed from list_scheduled_updates
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_2 a news update in 84841.0seconds
+INFO:__main__:New scheduled event :
+ Update_2['Time | 21:13', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:__main__:Calculated delay time
+INFO:covid_news_handling:Scheduling Update_3 a covid update in 84901.0seconds
+
+INFO:__main__:New scheduled event :
+ Update_3['Time | 21:14', 'Covid_update | False', 'News_update | True', 'Repeat | False']
+INFO:__main__:Size of list_scheduled_updates = 2
+INFO:__main__:Calculated delay time
+INFO:covid_data_handler:Scheduling Update_4 a news update in 84961.0seconds
+INFO:__main__:Calculated delay time
+INFO:covid_news_handling:Scheduling Update_4 a covid update in 84961.0seconds
+
+INFO:__main__:New scheduled event :
+ Update_4['Time | 21:15', 'Covid_update | True', 'News_update | True', 'Repeat | True']
+INFO:__main__:Size of list_scheduled_updates = 3
+INFO:__main__:Update_2 removed from covid scheduler
+INFO:__main__:Update_2 removed from list_scheduled_updates
+INFO:__main__:Update_3 removed from news scheduler
+INFO:__main__:Update_3 removed from list_scheduled_updates
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:covid_news_handling:Added a new title to removed_article_titles
+INFO:__main__:Removed an article
+INFO:__main__:Size of list_scheduled_updates = 1
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:39:03] "[32mGET /index?notif=Australia+news+LIVE%3A+William+Tyrrell+search+enters+second+week%3B+Victoria+records+1029+new+local+COVID-19+cases%2C+three+deaths+-+The+Sydney+Morning+Herald HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:39:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:39:04] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:__main__:Update_4 removed from covid scheduler
+INFO:__main__:Update_4 removed from news scheduler
+INFO:__main__:Update_4 removed from list_scheduled_updates
+INFO:__main__:Size of list_scheduled_updates = 0
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:39:09] "[32mGET /index?update_item=Update_4 HTTP/1.1[0m" 302 -
+INFO:covid_data_handler:Returning local data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_data_handler:Returning national data
+INFO:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+INFO:covid_news_handling:return ARTICLE_LIST
+INFO:covid_news_handling:Updated and returned news articles
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:39:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:39:09] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO:app:
+ NEW EXECUTION 
+

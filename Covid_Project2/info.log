@@ -1,0 +1,478 @@
+2021-12-06 21:05:15,014:covid_data_handler:Local covid data updated
+2021-12-06 21:05:15,610:covid_data_handler:National covid data updated
+2021-12-06 21:05:16,289:__main__:
+ NEW EXECUTION 
+
+2021-12-06 21:05:21,767:covid_data_handler:Returning local data
+2021-12-06 21:05:21,768:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:05:21,768:covid_data_handler:Returning national data
+2021-12-06 21:05:21,770:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:05:21,770:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:05:21,770:covid_news_handling:Updated and returned news articles
+2021-12-06 21:05:44,684:__main__:Calculated delay time
+2021-12-06 21:05:44,685:covid_data_handler:Scheduling Update_1 a news update in 16.0seconds
+2021-12-06 21:05:44,685:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:05:44,685:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:05:44,693:covid_data_handler:Returning local data
+2021-12-06 21:05:44,694:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:05:44,695:covid_data_handler:Returning national data
+2021-12-06 21:05:44,695:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:05:44,696:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:05:44,696:covid_news_handling:Updated and returned news articles
+2021-12-06 21:06:05,657:covid_data_handler:Returning local data
+2021-12-06 21:06:05,658:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:06:05,658:covid_data_handler:Returning national data
+2021-12-06 21:06:05,659:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:06:05,660:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:06:05,660:covid_news_handling:Updated and returned news articles
+2021-12-06 21:06:08,255:covid_data_handler:Returning local data
+2021-12-06 21:06:08,256:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:06:08,256:covid_data_handler:Returning national data
+2021-12-06 21:06:08,257:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:06:08,257:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:06:08,258:covid_news_handling:Updated and returned news articles
+2021-12-06 21:06:09,518:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:06:09,518:__main__:Removed an article
+2021-12-06 21:06:09,518:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:06:09,725:covid_data_handler:National covid data updated
+2021-12-06 21:06:10,175:covid_data_handler:Local covid data updated
+2021-12-06 21:06:10,386:covid_data_handler:Returning local data
+2021-12-06 21:06:10,387:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:06:10,387:covid_data_handler:Returning national data
+2021-12-06 21:06:10,388:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:06:10,389:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:06:10,389:covid_news_handling:Updated and returned news articles
+2021-12-06 21:06:10,389:__main__:Removed Update_1 from list_scheduled_updates
+2021-12-06 21:06:10,389:__main__:**Update_1
+2021-12-06 21:06:48,462:covid_data_handler:Local covid data updated
+2021-12-06 21:06:49,040:covid_data_handler:National covid data updated
+2021-12-06 21:06:49,467:__main__:
+ NEW EXECUTION 
+
+2021-12-06 21:06:49,483:__main__:Calculated delay time
+2021-12-06 21:06:49,483:covid_data_handler:Scheduling Update_1 a news update in 86351.0seconds
+2021-12-06 21:06:49,483:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:06:49,483:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:07:02,090:covid_data_handler:Returning local data
+2021-12-06 21:07:02,091:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:07:02,092:covid_data_handler:Returning national data
+2021-12-06 21:07:02,092:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:07:02,093:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:07:02,093:covid_news_handling:Updated and returned news articles
+2021-12-06 21:07:03,242:covid_data_handler:Returning local data
+2021-12-06 21:07:03,243:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:07:03,243:covid_data_handler:Returning national data
+2021-12-06 21:07:03,244:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:07:03,244:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:07:03,244:covid_news_handling:Updated and returned news articles
+2021-12-06 21:08:24,078:covid_data_handler:Local covid data updated
+2021-12-06 21:08:24,714:covid_data_handler:National covid data updated
+2021-12-06 21:08:25,110:__main__:
+ NEW EXECUTION 
+
+2021-12-06 21:08:25,115:__main__:Calculated delay time
+2021-12-06 21:08:25,115:covid_data_handler:Scheduling Update_1 a news update in 86255.0seconds
+2021-12-06 21:08:25,116:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:08:25,116:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:08:31,195:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:08:31,196:__main__:Removed an article
+2021-12-06 21:08:31,196:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:08:31,207:covid_data_handler:Returning local data
+2021-12-06 21:08:31,210:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:08:31,211:covid_data_handler:Returning national data
+2021-12-06 21:08:31,212:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:08:31,213:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:08:31,213:covid_news_handling:Updated and returned news articles
+2021-12-06 21:08:32,878:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:08:32,879:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:08:32,879:__main__:Size of list_scheduled_updates = 0
+2021-12-06 21:08:32,889:covid_data_handler:Returning local data
+2021-12-06 21:08:32,890:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:08:32,890:covid_data_handler:Returning national data
+2021-12-06 21:08:32,891:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:08:32,892:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:08:32,892:covid_news_handling:Updated and returned news articles
+2021-12-06 21:08:43,078:covid_data_handler:Local covid data updated
+2021-12-06 21:08:43,532:covid_data_handler:National covid data updated
+2021-12-06 21:08:43,949:__main__:
+ NEW EXECUTION 
+
+2021-12-06 21:08:43,965:__main__:Calculated delay time
+2021-12-06 21:08:43,965:covid_data_handler:Scheduling Update_1 a news update in 86237.0seconds
+2021-12-06 21:08:43,965:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:08:43,965:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:08:43,969:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:08:43,969:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:08:55,983:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:08:55,983:__main__:Removed an article
+2021-12-06 21:08:55,983:__main__:Size of list_scheduled_updates = 0
+2021-12-06 21:08:55,995:covid_data_handler:Returning local data
+2021-12-06 21:08:55,997:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:08:55,998:covid_data_handler:Returning national data
+2021-12-06 21:08:55,998:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:08:55,999:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:08:55,999:covid_news_handling:Updated and returned news articles
+2021-12-06 21:09:57,513:covid_data_handler:Local covid data updated
+2021-12-06 21:09:58,092:covid_data_handler:National covid data updated
+2021-12-06 21:09:58,857:__main__:
+ NEW EXECUTION 
+
+2021-12-06 21:09:58,861:__main__:Calculated delay time
+2021-12-06 21:09:58,861:covid_data_handler:Scheduling Update_1 a news update in 86162.0seconds
+2021-12-06 21:09:58,862:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:09:58,862:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:09:58,863:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:09:58,863:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:10:02,542:__main__:Size of list_scheduled_updates = 0
+2021-12-06 21:10:02,550:covid_data_handler:Returning local data
+2021-12-06 21:10:02,551:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:10:02,552:covid_data_handler:Returning national data
+2021-12-06 21:10:02,552:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:10:02,553:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:10:02,553:covid_news_handling:Updated and returned news articles
+2021-12-06 21:10:10,231:__main__:Calculated delay time
+2021-12-06 21:10:10,232:covid_data_handler:Scheduling Update_1 a news update in 50.0seconds
+2021-12-06 21:10:10,232:__main__:New scheduled event :
+ Update_1['Time | 21:11', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:10:10,233:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:10:10,239:covid_data_handler:Returning local data
+2021-12-06 21:10:10,240:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:10:10,241:covid_data_handler:Returning national data
+2021-12-06 21:10:10,242:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:10:10,242:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:10:10,243:covid_news_handling:Updated and returned news articles
+2021-12-06 21:11:05,500:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:11:05,501:__main__:Removed an article
+2021-12-06 21:11:05,501:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:11:05,735:covid_data_handler:National covid data updated
+2021-12-06 21:11:06,178:covid_data_handler:Local covid data updated
+2021-12-06 21:11:06,424:covid_data_handler:Returning local data
+2021-12-06 21:11:06,425:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:11:06,425:covid_data_handler:Returning national data
+2021-12-06 21:11:06,426:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:11:06,426:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:11:06,427:covid_news_handling:Updated and returned news articles
+2021-12-06 21:11:06,427:__main__:Removed Update_1 from list_scheduled_updates
+2021-12-06 21:11:06,427:__main__:**Update_1
+2021-12-06 21:11:26,827:covid_data_handler:Local covid data updated
+2021-12-06 21:11:27,296:covid_data_handler:National covid data updated
+2021-12-06 21:11:28,373:__main__:
+ NEW EXECUTION 
+
+2021-12-06 21:11:28,389:__main__:Calculated delay time
+2021-12-06 21:11:28,389:covid_data_handler:Scheduling Update_1 a news update in 86072.0seconds
+2021-12-06 21:11:28,389:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:11:28,389:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:11:28,389:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:11:28,389:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:11:28,393:__main__:Calculated delay time
+2021-12-06 21:11:28,393:covid_data_handler:Scheduling Update_1 a news update in 86372.0seconds
+2021-12-06 21:11:28,393:__main__:New scheduled event :
+ Update_1['Time | 21:11', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:11:28,394:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:11:28,394:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:11:28,394:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:11:57,790:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:11:57,791:__main__:Removed an article
+2021-12-06 21:11:57,791:__main__:Size of list_scheduled_updates = 0
+2021-12-06 21:11:57,802:covid_data_handler:Returning local data
+2021-12-06 21:11:57,803:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:11:57,804:covid_data_handler:Returning national data
+2021-12-06 21:11:57,805:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:11:57,805:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:11:57,805:covid_news_handling:Updated and returned news articles
+2021-12-06 21:12:19,791:covid_data_handler:Local covid data updated
+2021-12-06 21:12:21,843:covid_data_handler:National covid data updated
+2021-12-06 21:12:22,328:__main__:
+ NEW EXECUTION 
+
+2021-12-06 21:12:22,343:__main__:Calculated delay time
+2021-12-06 21:12:22,343:covid_data_handler:Scheduling Update_1 a news update in 86018.0seconds
+2021-12-06 21:12:22,343:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:12:22,343:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:12:22,343:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:12:22,343:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:12:22,350:__main__:Calculated delay time
+2021-12-06 21:12:22,350:covid_data_handler:Scheduling Update_1 a news update in 86318.0seconds
+2021-12-06 21:12:22,351:__main__:New scheduled event :
+ Update_1['Time | 21:11', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:12:22,351:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:12:22,352:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:12:22,352:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:12:34,512:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:12:34,513:__main__:Removed an article
+2021-12-06 21:12:34,513:__main__:Size of list_scheduled_updates = 0
+2021-12-06 21:12:34,522:covid_data_handler:Returning local data
+2021-12-06 21:12:34,523:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:12:34,523:covid_data_handler:Returning national data
+2021-12-06 21:12:34,525:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:12:34,526:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:12:34,526:covid_news_handling:Updated and returned news articles
+2021-12-06 21:12:42,265:__main__:Calculated delay time
+2021-12-06 21:12:42,265:covid_data_handler:Scheduling Update_2 a news update in 18.0seconds
+2021-12-06 21:12:42,266:__main__:New scheduled event :
+ Update_2['Time | 21:13', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:12:42,266:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:12:42,273:covid_data_handler:Returning local data
+2021-12-06 21:12:42,274:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:12:42,274:covid_data_handler:Returning national data
+2021-12-06 21:12:42,275:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:12:42,275:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:12:42,275:covid_news_handling:Updated and returned news articles
+2021-12-06 21:12:53,466:__main__:Calculated delay time
+2021-12-06 21:12:53,467:covid_news_handling:Scheduling Update_3 a covid update in 67.0seconds
+
+2021-12-06 21:12:53,467:__main__:New scheduled event :
+ Update_3['Time | 21:14', 'Covid_update | False', 'News_update | True', 'Repeat | False']
+2021-12-06 21:12:53,468:__main__:Size of list_scheduled_updates = 2
+2021-12-06 21:12:53,474:covid_data_handler:Returning local data
+2021-12-06 21:12:53,475:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:12:53,476:covid_data_handler:Returning national data
+2021-12-06 21:12:53,477:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:12:53,477:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:12:53,478:covid_news_handling:Updated and returned news articles
+2021-12-06 21:13:08,319:__main__:Calculated delay time
+2021-12-06 21:13:08,319:covid_data_handler:Scheduling Update_4 a news update in 112.0seconds
+2021-12-06 21:13:08,320:__main__:Calculated delay time
+2021-12-06 21:13:08,320:covid_news_handling:Scheduling Update_4 a covid update in 112.0seconds
+
+2021-12-06 21:13:08,320:__main__:New scheduled event :
+ Update_4['Time | 21:15', 'Covid_update | True', 'News_update | True', 'Repeat | True']
+2021-12-06 21:13:08,321:__main__:Size of list_scheduled_updates = 3
+2021-12-06 21:13:08,536:covid_data_handler:National covid data updated
+2021-12-06 21:13:08,966:covid_data_handler:Local covid data updated
+2021-12-06 21:13:09,199:covid_data_handler:Returning local data
+2021-12-06 21:13:09,200:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:13:09,200:covid_data_handler:Returning national data
+2021-12-06 21:13:09,201:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:13:09,201:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:13:09,201:covid_news_handling:Updated and returned news articles
+2021-12-06 21:13:09,202:__main__:Removed Update_2 from list_scheduled_updates
+2021-12-06 21:13:09,202:__main__:**Update_2
+2021-12-06 21:14:09,281:__main__:Size of list_scheduled_updates = 2
+2021-12-06 21:14:09,485:covid_data_handler:Returning local data
+2021-12-06 21:14:09,485:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:14:09,486:covid_data_handler:Returning national data
+2021-12-06 21:14:09,486:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:14:09,487:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:14:09,487:covid_news_handling:Updated and returned news articles
+2021-12-06 21:14:09,487:__main__:Removed Update_3 from list_scheduled_updates
+2021-12-06 21:14:09,488:__main__:**Update_3
+2021-12-06 21:15:05,394:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:15:05,394:__main__:Removed an article
+2021-12-06 21:15:05,395:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:15:05,979:covid_data_handler:Local covid data updated
+2021-12-06 21:15:06,578:covid_data_handler:National covid data updated
+2021-12-06 21:15:06,854:covid_data_handler:Returning local data
+2021-12-06 21:15:06,855:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:15:06,855:covid_data_handler:Returning national data
+2021-12-06 21:15:06,856:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:15:06,856:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:15:06,856:covid_news_handling:Updated and returned news articles
+2021-12-06 21:15:06,857:__main__:Calculated delay time
+2021-12-06 21:15:06,857:covid_data_handler:Scheduling Update_4 a news update in 86394.0seconds
+2021-12-06 21:15:06,857:__main__:Rescheduling covid : Update_4
+2021-12-06 21:15:06,858:__main__:Calculated delay time
+2021-12-06 21:15:06,858:covid_news_handling:Scheduling Update_4 a covid update in 86394.0seconds
+
+2021-12-06 21:15:06,858:__main__:Rescheduling news : Update_4
+2021-12-06 21:15:15,826:covid_data_handler:Local covid data updated
+2021-12-06 21:15:16,241:covid_data_handler:National covid data updated
+2021-12-06 21:15:16,691:__main__:
+ NEW EXECUTION 
+
+2021-12-06 21:15:16,696:__main__:Calculated delay time
+2021-12-06 21:15:16,697:covid_data_handler:Scheduling Update_1 a news update in 85844.0seconds
+2021-12-06 21:15:16,697:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:15:16,697:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:15:16,698:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:15:16,698:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:15:16,699:__main__:Calculated delay time
+2021-12-06 21:15:16,699:covid_data_handler:Scheduling Update_1 a news update in 86144.0seconds
+2021-12-06 21:15:16,699:__main__:New scheduled event :
+ Update_1['Time | 21:11', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:15:16,700:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:15:16,700:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:15:16,700:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:15:16,701:__main__:Calculated delay time
+2021-12-06 21:15:16,701:covid_data_handler:Scheduling Update_2 a news update in 86264.0seconds
+2021-12-06 21:15:16,701:__main__:New scheduled event :
+ Update_2['Time | 21:13', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:15:16,702:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:15:16,702:__main__:Calculated delay time
+2021-12-06 21:15:16,702:covid_news_handling:Scheduling Update_3 a covid update in 86324.0seconds
+
+2021-12-06 21:15:16,702:__main__:New scheduled event :
+ Update_3['Time | 21:14', 'Covid_update | False', 'News_update | True', 'Repeat | False']
+2021-12-06 21:15:16,703:__main__:Size of list_scheduled_updates = 2
+2021-12-06 21:15:16,703:__main__:Calculated delay time
+2021-12-06 21:15:16,703:covid_data_handler:Scheduling Update_4 a news update in 86384.0seconds
+2021-12-06 21:15:16,704:__main__:Calculated delay time
+2021-12-06 21:15:16,704:covid_news_handling:Scheduling Update_4 a covid update in 86384.0seconds
+
+2021-12-06 21:15:16,704:__main__:New scheduled event :
+ Update_4['Time | 21:15', 'Covid_update | True', 'News_update | True', 'Repeat | True']
+2021-12-06 21:15:16,704:__main__:Size of list_scheduled_updates = 3
+2021-12-06 21:15:16,705:__main__:Update_2 removed from covid scheduler
+2021-12-06 21:15:16,705:__main__:Update_2 removed from list_scheduled_updates
+2021-12-06 21:15:16,706:__main__:Update_3 removed from news scheduler
+2021-12-06 21:15:16,706:__main__:Update_3 removed from list_scheduled_updates
+2021-12-06 21:15:24,222:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:15:24,223:__main__:Removed an article
+2021-12-06 21:15:24,224:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:15:24,232:covid_data_handler:Returning local data
+2021-12-06 21:15:24,233:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:15:24,234:covid_data_handler:Returning national data
+2021-12-06 21:15:24,234:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:15:24,235:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:15:24,235:covid_news_handling:Updated and returned news articles
+2021-12-06 21:31:15,995:covid_data_handler:Local covid data updated
+2021-12-06 21:31:16,549:covid_data_handler:National covid data updated
+2021-12-06 21:31:17,274:app:
+ NEW EXECUTION 
+
+2021-12-06 21:38:53,642:covid_data_handler:Local covid data updated
+2021-12-06 21:38:54,170:covid_data_handler:National covid data updated
+2021-12-06 21:38:55,202:__main__:
+ NEW EXECUTION 
+
+2021-12-06 21:38:55,602:covid_data_handler:Local covid data updated
+2021-12-06 21:38:55,999:covid_data_handler:National covid data updated
+2021-12-06 21:38:56,698:app:
+ NEW EXECUTION 
+
+2021-12-06 21:38:56,725:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:38:56,725:app:Removed an article
+2021-12-06 21:38:56,729:app:Calculated delay time
+2021-12-06 21:38:56,730:covid_data_handler:Scheduling a_label a news update in 51664.0seconds
+2021-12-06 21:38:56,731:app:New scheduled event :
+ a_label['Time | 12:00', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:38:56,731:app:Size of list_scheduled_updates = 1
+2021-12-06 21:38:56,732:app:Calculated delay time
+2021-12-06 21:38:56,732:covid_news_handling:Scheduling b_label a covid update in 51664.0seconds
+
+2021-12-06 21:38:56,732:app:New scheduled event :
+ b_label['Time | 12:00', 'Covid_update | False', 'News_update | True', 'Repeat | False']
+2021-12-06 21:38:56,733:app:Size of list_scheduled_updates = 2
+2021-12-06 21:38:56,733:app:Calculated delay time
+2021-12-06 21:38:56,733:covid_data_handler:Scheduling c_label a news update in 51664.0seconds
+2021-12-06 21:38:56,734:app:Calculated delay time
+2021-12-06 21:38:56,734:covid_news_handling:Scheduling c_label a covid update in 51664.0seconds
+
+2021-12-06 21:38:56,735:app:New scheduled event :
+ c_label['Time | 12:00', 'Covid_update | True', 'News_update | True', 'Repeat | False']
+2021-12-06 21:38:56,735:app:Size of list_scheduled_updates = 3
+2021-12-06 21:38:56,735:app:Calculated delay time
+2021-12-06 21:38:56,736:covid_data_handler:Scheduling d_label a news update in 51664.0seconds
+2021-12-06 21:38:56,736:app:Calculated delay time
+2021-12-06 21:38:56,737:covid_news_handling:Scheduling d_label a covid update in 51664.0seconds
+
+2021-12-06 21:38:56,737:app:New scheduled event :
+ d_label['Time | 12:00', 'Covid_update | True', 'News_update | True', 'Repeat | True']
+2021-12-06 21:38:56,737:app:Size of list_scheduled_updates = 4
+2021-12-06 21:38:56,740:app:a_label removed from covid scheduler
+2021-12-06 21:38:56,741:app:b_label removed from news scheduler
+2021-12-06 21:38:56,741:app:c_label removed from covid scheduler
+2021-12-06 21:38:56,742:app:c_label removed from news scheduler
+2021-12-06 21:38:56,742:app:d_label removed from covid scheduler
+2021-12-06 21:38:56,742:app:d_label removed from news scheduler
+2021-12-06 21:38:56,745:app:Calculated delay time
+2021-12-06 21:38:56,749:app:Calculated delay time
+2021-12-06 21:38:56,750:covid_news_handling:Scheduling remove_label a covid update in 51664.0seconds
+
+2021-12-06 21:38:56,750:app:New scheduled event :
+ remove_label['Time | 12:00', 'Covid_update | False', 'News_update | True', 'Repeat | False']
+2021-12-06 21:38:56,752:app:Size of list_scheduled_updates = 1
+2021-12-06 21:38:56,752:app:remove_label removed from news scheduler
+2021-12-06 21:38:56,752:app:remove_label removed from list_scheduled_updates
+2021-12-06 21:38:56,754:app:Calculated delay time
+2021-12-06 21:38:56,755:covid_data_handler:Scheduling a_label a news update in 51664.0seconds
+2021-12-06 21:38:56,755:app:New scheduled event :
+ a_label['Time | 12:00', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:38:56,756:app:Size of list_scheduled_updates = 1
+2021-12-06 21:38:56,756:app:Size of list_scheduled_updates = 1
+2021-12-06 21:38:56,760:covid_data_handler:Readlines from csv file
+2021-12-06 21:38:56,764:covid_data_handler:Readlines from csv file
+2021-12-06 21:38:56,765:covid_data_handler:process_covid_csv_data returned data
+2021-12-06 21:38:56,993:covid_data_handler:Local covid data updated
+2021-12-06 21:38:57,225:covid_data_handler:Scheduling update test a news update in 10seconds
+2021-12-06 21:38:57,469:covid_data_handler:Local covid data updated
+2021-12-06 21:38:57,848:covid_data_handler:National covid data updated
+2021-12-06 21:38:58,040:covid_data_handler:Returning local data
+2021-12-06 21:38:58,040:covid_data_handler:Returning national data
+2021-12-06 21:38:58,297:covid_data_handler:National covid data updated
+2021-12-06 21:38:58,526:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:38:59,442:covid_news_handling:Scheduling test a covid update in 10seconds
+
+2021-12-06 21:38:59,445:covid_news_handling:Updated and returned news articles
+2021-12-06 21:38:59,448:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:38:59,957:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:38:59,971:__main__:Calculated delay time
+2021-12-06 21:38:59,971:covid_data_handler:Scheduling Update_1 a news update in 84421.0seconds
+2021-12-06 21:38:59,972:__main__:New scheduled event :
+ Update_1['Time | 21:06', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:38:59,972:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:38:59,972:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:38:59,973:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:38:59,973:__main__:Calculated delay time
+2021-12-06 21:38:59,974:covid_data_handler:Scheduling Update_1 a news update in 84721.0seconds
+2021-12-06 21:38:59,974:__main__:New scheduled event :
+ Update_1['Time | 21:11', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:38:59,975:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:38:59,975:__main__:Update_1 removed from covid scheduler
+2021-12-06 21:38:59,975:__main__:Update_1 removed from list_scheduled_updates
+2021-12-06 21:38:59,976:__main__:Calculated delay time
+2021-12-06 21:38:59,976:covid_data_handler:Scheduling Update_2 a news update in 84841.0seconds
+2021-12-06 21:38:59,976:__main__:New scheduled event :
+ Update_2['Time | 21:13', 'Covid_update | True', 'News_update | False', 'Repeat | False']
+2021-12-06 21:38:59,977:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:38:59,977:__main__:Calculated delay time
+2021-12-06 21:38:59,977:covid_news_handling:Scheduling Update_3 a covid update in 84901.0seconds
+
+2021-12-06 21:38:59,978:__main__:New scheduled event :
+ Update_3['Time | 21:14', 'Covid_update | False', 'News_update | True', 'Repeat | False']
+2021-12-06 21:38:59,978:__main__:Size of list_scheduled_updates = 2
+2021-12-06 21:38:59,979:__main__:Calculated delay time
+2021-12-06 21:38:59,979:covid_data_handler:Scheduling Update_4 a news update in 84961.0seconds
+2021-12-06 21:38:59,980:__main__:Calculated delay time
+2021-12-06 21:38:59,980:covid_news_handling:Scheduling Update_4 a covid update in 84961.0seconds
+
+2021-12-06 21:38:59,980:__main__:New scheduled event :
+ Update_4['Time | 21:15', 'Covid_update | True', 'News_update | True', 'Repeat | True']
+2021-12-06 21:38:59,981:__main__:Size of list_scheduled_updates = 3
+2021-12-06 21:38:59,981:__main__:Update_2 removed from covid scheduler
+2021-12-06 21:38:59,981:__main__:Update_2 removed from list_scheduled_updates
+2021-12-06 21:38:59,982:__main__:Update_3 removed from news scheduler
+2021-12-06 21:38:59,982:__main__:Update_3 removed from list_scheduled_updates
+2021-12-06 21:39:03,769:covid_news_handling:Added a new title to removed_article_titles
+2021-12-06 21:39:03,769:__main__:Removed an article
+2021-12-06 21:39:03,770:__main__:Size of list_scheduled_updates = 1
+2021-12-06 21:39:03,784:covid_data_handler:Returning local data
+2021-12-06 21:39:03,785:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:39:03,786:covid_data_handler:Returning national data
+2021-12-06 21:39:03,787:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:39:03,787:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:39:03,787:covid_news_handling:Updated and returned news articles
+2021-12-06 21:39:09,111:__main__:Update_4 removed from covid scheduler
+2021-12-06 21:39:09,111:__main__:Update_4 removed from news scheduler
+2021-12-06 21:39:09,112:__main__:Update_4 removed from list_scheduled_updates
+2021-12-06 21:39:09,112:__main__:Size of list_scheduled_updates = 0
+2021-12-06 21:39:09,118:covid_data_handler:Returning local data
+2021-12-06 21:39:09,118:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:39:09,118:covid_data_handler:Returning national data
+2021-12-06 21:39:09,120:covid_data_handler:New total_deaths , current_hospital_cases and last7days_cases calculated
+2021-12-06 21:39:09,121:covid_news_handling:return ARTICLE_LIST
+2021-12-06 21:39:09,121:covid_news_handling:Updated and returned news articles
+2021-12-06 21:40:41,087:covid_data_handler:Local covid data updated
+2021-12-06 21:40:41,561:covid_data_handler:National covid data updated
+2021-12-06 21:40:42,021:app:
+ NEW EXECUTION 
+
