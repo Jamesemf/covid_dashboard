@@ -5,7 +5,6 @@
 ## **Prerequisites** 
 ###### **Development version: 3.9.9**
 Dependinces that are not in the installation are:
-
  - Libraies  
     - logging 
     - datetime 
@@ -23,9 +22,10 @@ Dependinces that are not in the installation are:
     - nation_2021-10-28.csv
 ## **Installation**
 Module dependencies for the covid dashboard are: 
- - flask
- - uk_covid19
- - pytest
+ - pip install flask
+ - pip install newsapi-python
+ - pip install uk_covid19
+ - pip install pytest 
 
 ## **Getting started**
 
@@ -65,7 +65,6 @@ The central panel of the interface displays the title and provides the user with
     - checking the 'update covid data' checkbox if you want to be updated 
     - checking the 'update news articles' checkbox if you want the news to be updated 
 
-
 A new update can not be scheduled if an existing update of that name exists.
 
 ##### **Right panel**
@@ -84,3 +83,14 @@ To test that the authentication of an update is correctly working an update of t
 
 ## **Developer Documentation**
 Can be found by opening 'index.html' in a web browser. 
+
+## **APPENDIX**
+
+- Github:
+   link: https://github.com/RWBYAutumn/covid_dashboard 
+
+- COVID 19 MODULE:
+  link : https://publichealthengland.github.io/coronavirus-dashboard-api-python-sdk/pages/getting_started.html
+
+- NEWS API MODULE:
+  link : https://newsapi.org/docs/get-started

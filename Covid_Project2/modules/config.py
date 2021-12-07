@@ -18,7 +18,7 @@ def get_config_data(config_request:str):
     data : str / int
         value mapped to config_request returned from the json file
     '''
-    with open('modules\config.JSON') as config_file:
+    with open('config.JSON') as config_file:
         data = json.load(config_file)
         try:
             data = data[config_request]
