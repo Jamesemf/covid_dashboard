@@ -27,22 +27,6 @@ def test_schedule_handling():
     schedule_handling(True, 'd_label', '12:00', True, True, True )
     
 
-def test_remove_from_scheduler():
-    '''
-    Function
-    --------
-    Tests that different types of updates can be removed from the scheduler
-    '''
-    assert len(covid_update_scheduler.queue) > 0
-    remove_from_scheduler('a_label')
-    remove_from_scheduler('b_label')
-    remove_from_scheduler('c_label')
-    remove_from_scheduler('d_label')
-
-    print(covid_update_scheduler.queue)
-    print(covid_update_scheduler.empty)
-
-
 def test_time_difference():
     '''
     Function

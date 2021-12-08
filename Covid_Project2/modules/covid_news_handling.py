@@ -39,10 +39,12 @@ def news_API_request(covid_terms:str = get_config_data('covid_terms'))-> list:
     try:
         response = requests.get('https://newsapi.org/v2/top-headlines?q='+covid_terms+'&language='
                             +get_config_data("news_language")+'&apiKey='+get_config_data('api_key'))
+        
         ARTICLE_LIST.append(response.json()['articles'])
     except requests.ConnectionError as exc:
         log(News_logger, 'Connecton Error for newsapi')
         log(News_logger, exc)
+    log(News_logger, 'News articles updated from API')
     return ARTICLE_LIST
 
 def update_news(update_name:str, update_interval:int = get_config_data('news_default_wait'))->dict:
@@ -92,7 +94,7 @@ def article_compare(article_list_param:list)->list:
     except AttributeError as exc:
         log(News_logger, exc)
         log(News_logger, AttributeError)
-    log(News_logger, 'Updated and returned news articles')
+    log(News_logger, 'Removed articles and returned news articles')
     return list_of_articles
 
 def removed_article(article_title:str)->None:

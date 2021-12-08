@@ -5,7 +5,6 @@ The module also allows you to schedule updates to occur to the data and news
 aswell as removing these scheduled updates and news articles.
 '''
 import logging
-import unittest
 from datetime import datetime, timedelta
 from flask import Flask, render_template, request, redirect
 from covid_data_handler import (covid_API_request , process_api_data, return_api_data
@@ -14,7 +13,6 @@ from covid_news_handling import (return_article_list , removed_article,article_c
                                 ,update_news , news_API_request ,  news_update_scheduler)
 from config import get_config_data
 from logger import log , setup_logging
-import pytest
 
 app = Flask(__name__)
 
@@ -101,7 +99,7 @@ def handling():
         function then redirects to app.home().
     Returns
     --------
-        A redirect to the main body of app
+        A redirect to home the main route.
     '''
     if request.args.get('notif'):
         news_handling(request.args.get('notif'))
@@ -334,6 +332,5 @@ def remove_update(title:str)->None:
 log(logger,  '\n NEW EXECUTION \n')
 
 if __name__ == '__main__':
-    pytest.main()
     restore_updates_from_log()
     app.run()

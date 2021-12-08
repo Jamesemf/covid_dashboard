@@ -29,6 +29,10 @@ Module dependencies for the covid dashboard are:
 
 ## **Getting started**
 
+##### **Running the code**
+In order to execute the code you must run 'python -m app' in command prompt. Where your route path in command prompt is where the module is located.Example : \Documents\PythonPrograms\Covid_Project2 
+Then traverse to http://127.0.0.1:5000/ where the app should be running.  
+
 ##### **Configuration file**
 A Json file used for configuration of the dashboard. Within the file options for configuration include.
  - 'image_file'
@@ -74,15 +78,14 @@ The right panel of the interface provides the user with a list of news articles 
 The left panel of the interface provides ther user with a list of scheduled updates; created in the central panel. These scheduled updates provide information on the title of the udpate, the time it is scheduled for, whether it is repeatable and the content scheduled to be updated. Each scheduled update can be cancelled and removed from the interface by clicking the cross in the top right corner of the box. If there are no scheduled updates, the interface displays a box where the scheduled updates would be notifying the user of this.
 
 
-
 ## **Testing** 
-The code can be executed from the main app.py module and can be tested by going to http://127.0.0.1:5000/ to see if the website is being hosted locally. 
-Once on the interface, the news article side of the interface can be tested by closing some of the articles and seeing new articles brought up. The central interface can be tested by entering a time, label and selecting the desired checkboxes then waiting for it to appear on the scheduled updates list. After that time has occured, reloading the page will result in the update being removed from the scheduled updates list and the data selcted being updated. Unless the update was set to repeat in which case it will persist in the list. 
+- The code can be tested automatically by using the command 'python -m pytest' in commmand prompt. 
+- To test the code manually, follow '***running the code***' and once on the interface, the news article side of the interface can be tested by closing some of the articles and seeing new articles brought up. The central interface can be tested by entering a time, label and selecting the desired checkboxes then waiting for it to appear on the scheduled updates list. After that time has occured, reloading the page will result in the update being removed from the scheduled updates list and the data selcted being updated. Unless the update was set to repeat in which case it will persist in the list. 
 
 To test that the authentication of an update is correctly working an update of the same name can be attempted to be scheduled and should not appear in the scheduled update list. 
 
 ## **Developer Documentation**
-Can be found by opening 'index.html' in a web browser. 
+Can be found by opening 'index.html' (located in build) in a web browser. 
 
 ## **APPENDIX**
 
